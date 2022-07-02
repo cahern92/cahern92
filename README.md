@@ -18,7 +18,7 @@ I am currently a Data Analyst with UCSF working in the Memory and Aging Center (
   - Python - Basic Methods (Pandas, NumPy, etc.)
 
 -- 📫 How to reach me: 
-  - LinkedIn: www.linkedin.com/in/cesarhernandez14
+  - LinkedIn: www.linkedin.com/in/cahern92
 
 <!--
 **cahern92/cahern92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
